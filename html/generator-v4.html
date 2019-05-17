@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Générateur de citation</title>
+</head>
+
+<body>
+    <h1 class="debut">Générateur de citation</h1>
+    <div id="citation">
+    </div>
+    <form>
+        <p>
+            <label for="nbrCitation">Combien de citations voulez-vous?</label> :
+                <select name="nbrCitation" id="nbrCitation">
+                    <option value="1" selected>1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+        </p>
+        <p>
+                <input type="radio" name="groupe" id="groupe1" value="groupe1" checked>
+                <label for="groupe1">Choisir le premier groupe de mots.</label>
+                <br>
+                <input type="radio" name="groupe" id="groupe2" value="groupe2">
+                <label for="groupe2">Choisir le deuxième groupe de mots.</label>
+                <br>
+        </p>
+
+        
+    </form>
+    <button id="generate">Générer des citations</button>
+
+    <script src="../js/ajax.js"></script>
+    <script src="../js/generator-v6.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+
+{
+    "groupe1": {
+        "firstPart": [ "Avec la restriction présente", "Considérant", "Où que nous mène", "Eu égard à", "En ce qui concerne", "Dans le cas particulier de", "Quelle que soit"],
+        "secondPart": ["il est préférable", "il serait intéressant", "il ne faut pas négliger", "on ne peut se passer", "il est nécessaire", "je préconise un audit afin", "il est très important", "il ne faut pas s'interdire"],
+        "thirdPart": ["prendre en compte.", "arrêter de stigmatiser.", "la simultanéité des solutions.", "imaginables, à long terme.", "depuis longtemps.", "pour longtemps.", "à court terme.", "la plus grande partie des solutions imaginables."]
+    },
+    "groupe2": {
+        "firstPart": ["Avec la restriction présente", "Considérant", "Où que nous mène", "Eu égard à", "En ce qui concerne", "Dans le cas particulier de", "Quelle que soit"],
+        "secondPart": ["il est préférable", "il serait intéressant", "il ne faut pas négliger", "on ne peut se passer", "il est nécessaire", "je préconise un audit afin", "il est très important","il ne faut pas s'interdire"],
+        "thirdPart": ["prendre en compte.", "arrêter de stigmatiser.", "la simultanéité des solutions.", "imaginables, à long terme.", "depuis longtemps.", "pour longtemps.", "à court terme.", "la plus grande partie des solutions imaginables."]
+    }
+}
